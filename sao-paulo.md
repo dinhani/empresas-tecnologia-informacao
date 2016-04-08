@@ -51,6 +51,7 @@
 * [Evolux](http://www.evolux.net.br/)
 * [Plataformtec](http://plataformatec.com.br/)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
+* [PluggTo](https://plugg.to)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
