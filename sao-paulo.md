@@ -1,5 +1,8 @@
 # São Paulo
 
+## Barueri
+* [e-Deploy](http://www.e-deploy.com.br/)
+
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
 
@@ -12,5 +15,5 @@
 * [e-Deploy](http://www.e-deploy.com.br/)
 
 ## Sorocaba
-* [GFT](http://www.gft.com/br/pt/index.html)
 * [FIT](http://www.fit-tecnologia.org.br/)
+* [GFT](http://www.gft.com/br/pt/index.html)
