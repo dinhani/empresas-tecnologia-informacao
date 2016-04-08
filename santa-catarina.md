@@ -4,8 +4,8 @@
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
 
 ## Joinville
+* [ContaAzul](https://contaazul.com/)
 * [Collabo](https://www.collabo.com.br/)
 * [Humantech](https://www.humantech.com.br/)
-* [ContaAzul](https://contaazul.com/)
-* [Totvs](https://www.totvs.com/)
 * [SoftExpert](https://www.softexpert.com.br/)
+* [Totvs](https://www.totvs.com/)
