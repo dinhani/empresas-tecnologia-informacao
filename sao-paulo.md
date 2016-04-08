@@ -30,7 +30,7 @@
 * [Top Deals](http://topdeals.com.br/)
 
 ## Limeira
-* [BluePex](    http://www.bluepex.com/)
+* [BluePex](http://www.bluepex.com/)
 
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
