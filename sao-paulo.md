@@ -21,6 +21,7 @@
 ## Indaiatuba
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
+* [ESX](http://www.esx.com.br/) 
 * [Linked RH](http://www.joinrh.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
