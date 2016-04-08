@@ -22,6 +22,9 @@
 * [Mega Sistemas](http://www.mega.com.br/home/)
 * [Renasoft](http://www.renasoft.com.br/)
 
+## Limeira
+* [BluePex](http://www.bluepex.com/)
+
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
 * [e-Deploy](http://www.e-deploy.com.br/)
