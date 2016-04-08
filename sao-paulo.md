@@ -6,6 +6,7 @@
 
 ## Campinas
 * [CI&T](http://www.ciandt.com/br-pt)
+* [Codeminer42](http://www.codeminer42.com/)
 * [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
@@ -22,9 +23,11 @@
 * [Sonda IT](http://www.sondait.com.br/)
 
 ## Itu
+* [FWC](http://www.fwc.com.br/)
 * [Gênia](http://www.agenciagenia.com.br/)
 * [Mega Sistemas](http://www.mega.com.br/home/)
 * [Renasoft](http://www.renasoft.com.br/)
+* [Top Deals](http://topdeals.com.br/)
 
 ## Limeira
 * [BluePex](    http://www.bluepex.com/)
@@ -36,6 +39,7 @@
 * [Orion](http://www.orionsites.com/)
 
 ## Sorocaba
+* [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
 * [Smyowl](http://www.smyowl.com/)
