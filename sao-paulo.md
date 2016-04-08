@@ -12,6 +12,8 @@
 * [Dextra](http://dextra.com.br/)
 * [Matera](http://www.matera.com/br/)
 * [Movile](https://www.movile.com/pt/)
+* [Padtec](http://www.padtec.com.br/)
+* [Sensedia](http://sensedia.com/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
