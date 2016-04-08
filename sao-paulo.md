@@ -5,6 +5,7 @@
 
 ## Campinas
 * [CI&T](http://www.ciandt.com/br-pt)
+* [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
 * [Matera](http://www.matera.com/br/)
@@ -29,3 +30,4 @@
 ## Sorocaba
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
+* [Smyowl](http://www.smyowl.com/)
