@@ -15,6 +15,9 @@
 * [IBM](http://www.ibm.com/br-pt/)
 
 ## Indaiatuba
+* [Biro2000](http://www.biro2000.com.br/)
+* [Carreira Muller](http://www.carreira.com.br/)
+* [Linked RH](http://www.joinrh.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
 
 ## Itu
@@ -23,7 +26,7 @@
 * [Renasoft](http://www.renasoft.com.br/)
 
 ## Limeira
-* [BluePex](http://www.bluepex.com/)
+* [BluePex](    http://www.bluepex.com/)
 
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
