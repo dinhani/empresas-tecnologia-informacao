@@ -23,6 +23,7 @@
 * [Sonda IT](http://www.sondait.com.br/)
 
 ## Itu
+* [Datapar](http://www.datapar.com.br/home/)
 * [FWC](http://www.fwc.com.br/)
 * [Gênia](http://www.agenciagenia.com.br/)
 * [Mega Sistemas](http://www.mega.com.br/home/)
