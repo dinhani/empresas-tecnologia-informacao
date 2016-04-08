@@ -42,6 +42,10 @@
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## São José dos Campos
+* [Sonda IT](http://www.sondait.com.br/)
+* [Tivit](http://www.tivit.com.br)
+
 ## São Paulo
 * [Red Hat](https://www.redhat.com/en/global/brazil)
 
