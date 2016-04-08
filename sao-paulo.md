@@ -2,7 +2,6 @@
 
 ## Barueri
 
-### Alphaville
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
 
