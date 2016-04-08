@@ -48,8 +48,8 @@
 * [Tivit](http://www.tivit.com.br)
 
 ## São Paulo
-* [Red Hat](https://www.redhat.com/en/global/brazil)
 * [Evolux](http://www.evolux.net.br/)
+* [Red Hat](https://www.redhat.com/en/global/brazil)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
