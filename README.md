@@ -6,5 +6,6 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 ## Empresas por estado
 
+* [Ceará](/ceara.md)
 * [Rio de Janeiro](/rio-de-janeiro.md)
 * [São Paulo](/sao-paulo.md)
