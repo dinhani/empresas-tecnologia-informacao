@@ -43,6 +43,7 @@
 
 ## São Paulo
 * [Red Hat](https://www.redhat.com/en/global/brazil)
+* [Evolux](http://www.evolux.net.br/)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
