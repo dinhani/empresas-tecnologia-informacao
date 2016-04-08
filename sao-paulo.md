@@ -1,7 +1,10 @@
 # São Paulo
 
 ## Barueri
+
+### Alphaville
 * [e-Deploy](http://www.e-deploy.com.br/)
+* [HP](http://www8.hp.com/br/pt/home.html)
 
 ## Campinas
 * [CI&T](http://www.ciandt.com/br-pt)
@@ -32,6 +35,7 @@
 * [ACSN](http://www.acsn.com.br/site/)
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HLP](http://www.hlp.com.br/)
+* [Orion](http://www.orionsites.com/)
 
 ## Sorocaba
 * [FIT](http://www.fit-tecnologia.org.br/)
