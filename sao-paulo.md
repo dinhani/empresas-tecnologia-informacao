@@ -41,6 +41,9 @@
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## São Paulo
+* [Red Hat](https://www.redhat.com/en/global/brazil)
+
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
