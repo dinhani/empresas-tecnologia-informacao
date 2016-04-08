@@ -24,6 +24,7 @@
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
 * [e-Deploy](http://www.e-deploy.com.br/)
+* [HLP](http://www.hlp.com.br/)
 
 ## Sorocaba
 * [FIT](http://www.fit-tecnologia.org.br/)
