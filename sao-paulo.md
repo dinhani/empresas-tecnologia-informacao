@@ -3,6 +3,9 @@
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 
+## Campinas
+* [CI&T](http://www.ciandt.com/br-pt)
+
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
 
