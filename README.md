@@ -8,4 +8,5 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 * [Ceará](/ceara.md)
 * [Rio de Janeiro](/rio-de-janeiro.md)
+* [Rio Grande do Norte](/rio-grande-do-norte.md)
 * [São Paulo](/sao-paulo.md)
