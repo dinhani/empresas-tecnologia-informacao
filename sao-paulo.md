@@ -5,6 +5,9 @@
 
 ## Campinas
 * [CI&T](http://www.ciandt.com/br-pt)
+* [Dextra](http://dextra.com.br/)
+* [Matera](http://www.matera.com/br/)
+* [Movile](https://www.movile.com/pt/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
