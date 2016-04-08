@@ -49,6 +49,7 @@
 
 ## São Paulo
 * [Evolux](http://www.evolux.net.br/)
+* [Plataformtec](http://plataformatec.com.br/)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
 
 ## Sorocaba
