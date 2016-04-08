@@ -5,6 +5,7 @@
 
 ## Campinas
 * [CI&T](http://www.ciandt.com/br-pt)
+* [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
 * [Matera](http://www.matera.com/br/)
 * [Movile](https://www.movile.com/pt/)
@@ -12,7 +13,11 @@
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
 
+## Indaiatuba
+* [Sonda IT](http://www.sondait.com.br/)
+
 ## Itu
+* [Gênia](http://www.agenciagenia.com.br/)
 * [Mega Sistemas](http://www.mega.com.br/home/)
 * [Renasoft](http://www.renasoft.com.br/)
 
