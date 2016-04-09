@@ -9,3 +9,6 @@
 * [Humantech](https://www.humantech.com.br/)
 * [SoftExpert](https://www.softexpert.com.br/)
 * [Totvs](https://www.totvs.com/)
+
+## Mafra
+* [Canvas Studio](http://www.canvasstudio.com.br/)
