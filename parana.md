@@ -1,6 +1,7 @@
 # Paraná
 
 ## Curitiba
+* [BRQ](http://www.brq.com)
 * [eWave](http://www.ewave.com.br)
 * [FH Consultoria](http://www.fh.com.br)
 * [Flieger Software](http://fliegersoftware.de)
