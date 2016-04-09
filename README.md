@@ -6,6 +6,7 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 ## Empresas por estado
 
+* [Alagoas](/alagoas.md)
 * [Ceará](/ceara.md)
 * [Minas Gerais](/minas-gerais.md)
 * [Paraná](/parana.md)
