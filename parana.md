@@ -1,6 +1,7 @@
 # Paraná
 
 ## Curitiba
+* [eWave](http://www.ewave.com.br)
 * [FH Consultoria](http://www.fh.com.br)
 * [Flieger Software](http://fliegersoftware.de)
-* [eWave](http://www.ewave.com.br)
+* [Grupo NZN](http://www.gruponzn.com)
