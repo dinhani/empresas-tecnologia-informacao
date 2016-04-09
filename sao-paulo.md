@@ -15,6 +15,7 @@
 * [Movile](https://www.movile.com/pt/)
 * [Padtec](http://www.padtec.com.br/)
 * [Sensedia](http://sensedia.com/)
+* [Venturus](http://www.venturus.org.br/site/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
@@ -46,6 +47,9 @@
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
+
+## São Carlos
+* [ZarpSystem](http://www.zarpsystem.com.br/)
 
 ## São José dos Campos
 * [Sonda IT](http://www.sondait.com.br/)
