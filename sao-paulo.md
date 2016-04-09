@@ -51,6 +51,9 @@
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## Santos
+* [Contele](http://www.contele.com.br/)
+
 ## São Carlos
 * [ZarpSystem](http://www.zarpsystem.com.br/)
 
