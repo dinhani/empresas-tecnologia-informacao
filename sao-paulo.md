@@ -5,6 +5,7 @@
 * [HP](http://www8.hp.com/br/pt/home.html)
 
 ## Campinas
+* [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
 * [Codeminer42](http://www.codeminer42.com/)
 * [CPQD](http://www.cpqd.com.br/)
@@ -36,6 +37,9 @@
 
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
+
+## Rio Claro
+* [Caiena](http://www.caiena.net)
 
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
