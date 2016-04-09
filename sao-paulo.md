@@ -57,6 +57,7 @@
 ## São José dos Campos
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
+* [QMágico](http://www.qmagico.com.br)
 
 ## São Paulo
 * [Evolux](http://www.evolux.net.br/)
