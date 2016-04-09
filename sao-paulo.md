@@ -4,6 +4,9 @@
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
 
+## Bauru
+* [Lecom](http://www.lecom.com.br/)
+
 ## Campinas
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
