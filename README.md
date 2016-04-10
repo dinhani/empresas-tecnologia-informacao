@@ -6,12 +6,14 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 ## Empresas por estado
 
-* [Alagoas](/alagoas.md)
-* [Ceará](/ceara.md)
-* [Minas Gerais](/minas-gerais.md)
-* [Paraná](/parana.md)
-* [Rio de Janeiro](/rio-de-janeiro.md)
-* [Rio Grande do Norte](/rio-grande-do-norte.md)
-* [Rio Grande do Sul](/rio-grande-do-sul.md)
-* [Santa Catarina](/santa-catarina.md)
-* [São Paulo](/sao-paulo.md)
+| Estados | -- |
+| ------- | -- |
+| ![Alagoas](img/bandeiras/alagoas.png)                          | [Alagoas](/alagoas.md)                         |
+| ![Ceará](img/bandeiras//ceara.png)                             | [Ceará](/ceara.md)                             |
+| ![Minas Gerais](img/bandeiras//minas-gerais.png)               | [Minas Gerais](/minas-gerais.md)               |
+| ![Paraná](img/bandeiras//parana.png)                           | [Paraná](/parana.md)                           |
+| ![Rio de Janeiro](img/bandeiras//rio-de-janeiro.png)           | [Rio de Janeiro](/rio-de-janeiro.md)           |
+| ![Rio Grande do Norte](img/bandeiras//rio-grande-do-norte.png) | [Rio Grande do Norte](/rio-grande-do-norte.md) |
+| ![Rio Grande do Sul](img/bandeiras//rio-grande-do-sul.png)     | [Rio Grande do Sul](/rio-grande-do-sul.md)     |
+| ![Santa Catarina](img/bandeiras//santa-catarina.png)           | [Santa Catarina](/santa-catarina.md)           |
+| ![São Paulo](img/bandeiras//sao-paulo.png)                     | [São Paulo](/sao-paulo.md)                     |
