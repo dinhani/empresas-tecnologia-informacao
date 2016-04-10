@@ -4,7 +4,11 @@
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
 
+## Bauru
+* [Lecom](http://www.lecom.com.br/)
+
 ## Campinas
+* [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
 * [Codeminer42](http://www.codeminer42.com/)
 * [CPQD](http://www.cpqd.com.br/)
@@ -14,6 +18,7 @@
 * [Movile](https://www.movile.com/pt/)
 * [Padtec](http://www.padtec.com.br/)
 * [Sensedia](http://sensedia.com/)
+* [Venturus](http://www.venturus.org.br/site/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
@@ -21,7 +26,9 @@
 ## Indaiatuba
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
+* [ESX](http://www.esx.com.br/) 
 * [Linked RH](http://www.joinrh.com.br/)
+* [Nano Incub](http://www.nanoincub.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
 
 ## Itu
@@ -35,13 +42,30 @@
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
 
+## Rio Claro
+* [Caiena](http://www.caiena.net)
+
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## Santos
+* [Contele](http://www.contele.com.br/)
+
+## São Carlos
+* [ZarpSystem](http://www.zarpsystem.com.br/)
+
+## São José dos Campos
+* [Sonda IT](http://www.sondait.com.br/)
+* [Tivit](http://www.tivit.com.br)
+* [QMágico](http://www.qmagico.com.br)
+
 ## São Paulo
+* [Evolux](http://www.evolux.net.br/)
+* [Plataformtec](http://plataformatec.com.br/)
+* [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
 
 ## Sorocaba
