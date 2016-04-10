@@ -6,8 +6,8 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 ## Empresas por estado
 
-| Estados | -- |
-| ------- | -- |
+|||
+| ------- | --- |
 | ![Alagoas](img/bandeiras/alagoas.png)                          | [Alagoas](/alagoas.md)                         |
 | ![Ceará](img/bandeiras//ceara.png)                             | [Ceará](/ceara.md)                             |
 | ![Minas Gerais](img/bandeiras//minas-gerais.png)               | [Minas Gerais](/minas-gerais.md)               |
