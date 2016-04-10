@@ -10,3 +10,4 @@
 * [Tivit](http://www.tivit.com.br)
 * [Premier](http://www.premierit.com.br)
 * [Stefanini](https://stefanini.com/br)
+* [Wise Systems](http://www.wises.com.br)
