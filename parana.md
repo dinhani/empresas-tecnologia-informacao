@@ -10,6 +10,7 @@
 * [Flieger Software](http://fliegersoftware.de)
 * [Grupo NZN](http://www.gruponzn.com)
 * [HSBC Global Technology](http://www.hsbcglt.com.br)
+* [TechResult](https://www.linkedin.com/company/techresult-it-solutions)
 * [Tivit](http://www.tivit.com.br)
 * [Pelissari](http://www.pelissari.com.br)
 * [Premier](http://www.premierit.com.br)
