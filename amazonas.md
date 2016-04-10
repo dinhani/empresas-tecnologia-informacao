@@ -21,4 +21,4 @@
 
 ## Manacapuru
 
-* [FUCAPI]](http://www.fucapi.br)
+* [FUCAPI](http://www.fucapi.br)
