@@ -72,6 +72,7 @@
 
 ## São Carlos
 * [ZarpSystem](http://www.zarpsystem.com.br/)
+* [Monitora](http://monitoratec.com.br/)
 
 ## São José dos Campos
 * [Focusnetworks](http://www.focusnetworks.com.br)
