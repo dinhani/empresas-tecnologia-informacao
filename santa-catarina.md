@@ -8,9 +8,11 @@
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
 
 ## Criciúma
+* [Betha Sistemas](http://betha.com.br/)
 * [Dominio Sistemas](http://dominiosistemas.com.br/)
 * [InfoData](http://infodataweb.com.br/)
 * [Logosystem](http://logosystem.com.br)
+* [Useall](http://useall.com.br)
 
 ## Joinville
 * [ContaAzul](https://contaazul.com/)
