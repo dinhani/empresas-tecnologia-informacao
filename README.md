@@ -17,8 +17,8 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 | <img src="img/bandeiras/espirito-santo.png" height="50">      | [Espírito Santo](/espirito-santo.md)           |
 | <img src="img/bandeiras/goias.png" height="50">               | [Goiás](/goias.md)                             |
 | <img src="img/bandeiras/maranhao.png" height="50">            | [Maranhão](/maranhao.md)                       |
-| <img src="img/bandeiras/mato-grosso.png" height="50">         | [Mato Grosso](/mato-grtosso.md)                |
-| <img src="img/bandeiras/mato-grosso-do-sul.png" height="50">  | [Mato Grosso do Sul](/mato-grtosso-do-sul.md)  |
+| <img src="img/bandeiras/mato-grosso.png" height="50">         | [Mato Grosso](/mato-grosso.md)                 |
+| <img src="img/bandeiras/mato-grosso-do-sul.png" height="50">  | [Mato Grosso do Sul](/mato-grosso-do-sul.md)   |
 | <img src="img/bandeiras/minas-gerais.png" height="50">        | [Minas Gerais](/minas-gerais.md)               |
 | <img src="img/bandeiras/para.png" height="50">                | [Pará](/para.md)                               |
 | <img src="img/bandeiras/paraiba.png" height="50">             | [Paraíba](/paraiba.md)                         |
