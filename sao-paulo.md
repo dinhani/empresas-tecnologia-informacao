@@ -68,6 +68,8 @@
 * [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
+* [Codus Tecnologia](http://www.codus.com.br)
+* [Geekie](http://www.geekie.com.br/)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
