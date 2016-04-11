@@ -24,6 +24,19 @@
 ## Mafra
 * [Canvas Studio](http://www.canvasstudio.com.br/)
 
+## Tubarão
+* [Branet](http://branet.com.br/)
+* [Cubo Sistemas](http://cubosis.com.br/)
+* [Lenke Automação](http://lenkeautomacao.com.br/)
+* [Logtec Sistemas](http://logtecsistemas.com.br/)
+* [News Soft](http://newssoft.com.br/)
+* [Nuntec](http://nuntec.com.br/)
+* [Tecmedia Internet Design](http://tecmedia.com.br/)
+* [ToolsPharma](http://toolspharma.com.br/)
+* [Trier Sistemas](http://triersistemas.com.br/)
+* [Visual Solutions Software Consultants](http://vsol.us)
+* [WMW Systems](http://wmw.com.br/)
+
 ## Videira
 * [Auryn](http://auryn.com.br/)
 * [Doppler Sistemas](http://dopplersistemas.com.br/)
