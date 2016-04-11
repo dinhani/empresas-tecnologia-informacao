@@ -6,7 +6,10 @@
 * [TCS](http://www.tcs.com/worldwide/s_america/locations/brazil/Pages/default.aspx)
 
 ## Bauru
+* [Arca Solutions](http://www.arcasolutions.com.br/)
+* [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
+* [MSTECH](http://www.mstech.com.br/)
 
 ## Campinas
 * [Caiena](http://www.caiena.net)
