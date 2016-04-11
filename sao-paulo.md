@@ -43,6 +43,13 @@
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
 
+##Ribeirão Preto
+* [Consinco](http://www.consinco.com.br)
+* [iClinic](https://iclinic.com.br)
+* [Jet](http://www.jetecommerce.com.br)
+* [Smarapd](http://www.smarapd.com.br)
+* [Target](http://www.targetsistemas.com)
+
 ## Rio Claro
 * [Caiena](http://www.caiena.net)
 
