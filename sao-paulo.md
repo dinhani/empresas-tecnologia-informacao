@@ -10,7 +10,7 @@
 ## Campinas
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
-* [Codeminer42](http://www.codeminer42.com/)
+* [Codeminer42](http://www.codeminer42p´lcom/)
 * [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
@@ -65,7 +65,7 @@
 
 ## São Paulo
 * [Evolux](http://www.evolux.net.br/)
-* [Plataformtec](http://plataformatec.com.br/)
+* [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
 
