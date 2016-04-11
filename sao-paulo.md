@@ -69,6 +69,11 @@
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
 * [QMágico](http://www.qmagico.com.br)
+* [Focusnetworks](http://www.focusnetworks.com.br)
+* [GSW](http://www.gsw.com.br)
+* [Gauge](http://www.gauge.com.br)
+* [Imagem](http://www.img.com.br)
+* [Phocus Interact](http://www.phocus.com.br)
 
 ## São Paulo
 * [Codus Tecnologia](http://www.codus.com.br)
