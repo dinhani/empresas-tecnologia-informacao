@@ -19,3 +19,10 @@
 * [Stefanini](https://stefanini.com/br)
 * [Visionnaire](http://www.visionnaire.com.br/)
 * [Wise Systems](http://www.wises.com.br)
+
+## Londrina
+* [Advise](http://www.advisebrasil.com.br/)
+* [Bis2Bis](http://bis2bis.com.br/)
+* [Oniria](http://oniria.com.br/sites/)
+* [OnixSat](http://www.onixsat.com.br/portal/home)
+* [Veltec](https://www.veltec.com.br/)
