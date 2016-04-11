@@ -10,6 +10,10 @@
 * [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
 * [MSTECH](http://www.mstech.com.br/)
+* [ESAPIENS](http://www.esapiens.com.br/)
+* [VSM](http://vsm.com.br/)
+* [NM Sistemas](http://www.nmsistemas.com.br/)
+* [FINCH Soluções](http://www.finchsolucoes.com.br/)
 
 ## Campinas
 * [Caiena](http://www.caiena.net)
