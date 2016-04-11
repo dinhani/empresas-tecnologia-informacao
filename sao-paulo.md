@@ -71,8 +71,8 @@
 * [Contele](http://www.contele.com.br/)
 
 ## São Carlos
-* [ZarpSystem](http://www.zarpsystem.com.br/)
 * [Monitora](http://monitoratec.com.br/)
+* [ZarpSystem](http://www.zarpsystem.com.br/)
 
 ## São José dos Campos
 * [Focusnetworks](http://www.focusnetworks.com.br)
