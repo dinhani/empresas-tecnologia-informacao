@@ -34,4 +34,4 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 | <img src="img/bandeiras/sao-paulo.png" height="50">           | [São Paulo](/sao-paulo.md)                        |
 | <img src="img/bandeiras/sergipe.png" height="50">             | [Roraima](/sergipe.md)                            |
 | <img src="img/bandeiras/tocantins.png" height="50">           | [Tocantins](/tocantins.md)                        |
-| <img src="img/bandeiras/internacional.png" height="50">       | [Internacional (remoto)(/internacional-remoto.md) |
+| <img src="img/bandeiras/internacional.png" height="50">       | [Internacional (remoto)](/internacional-remoto.md) |
