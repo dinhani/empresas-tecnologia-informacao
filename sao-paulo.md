@@ -53,6 +53,10 @@
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## Santana de Parnaíba
+[Stefanini](https://stefanini.com/br/)
+[Capgemini](https://www.br.capgemini.com/)
+
 ## Santos
 * [Contele](http://www.contele.com.br/)
 
