@@ -3,6 +3,7 @@
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
+* [TCS](http://www.tcs.com/worldwide/s_america/locations/brazil/Pages/default.aspx)
 
 ## Bauru
 * [Lecom](http://www.lecom.com.br/)
