@@ -15,4 +15,5 @@
 * [Pelissari](http://www.pelissari.com.br)
 * [Premier](http://www.premierit.com.br)
 * [Stefanini](https://stefanini.com/br)
+* [Visionnaire](http://www.visionnaire.com.br/)
 * [Wise Systems](http://www.wises.com.br)
