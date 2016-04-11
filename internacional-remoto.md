@@ -1,8 +1,8 @@
-# Remote
+# Internacional (remoto)
 
-## Belgium
+## Bélgica
 * [made with love](https://madewithlove.be/)
 
-## USA
+## Estados Unidos
 * [Quimbik](https://www.quimbik.com/)
 * [Tidy](http://tidy.com/)
