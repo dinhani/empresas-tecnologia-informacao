@@ -5,12 +5,14 @@
 
 ## Maceió
 
+* [Audora](http://audora.com.br/)
 * [Bluevox](http://www.bluevox.com.br/)
 * [Doity](https://www.doity.com.br/)
 * [HandTalk](http://www.handtalk.me/)
 * [id5 Soluções Web](http://www.id5.com.br/)
 * [ilhasoft](http://ilhasoft.com.br/)
 * [Meu Tutor](http://meututor.com.br/)
+* [Meyer](http://www.meyerr.com.br/)
 * [Plus Agência Digital](http://www.plusagenciadigital.com.br/)
 * [Qualitex](http://www.qualitex.com.br/)
 * [Quanto Gastei](https://www.quantogastei.com/)
