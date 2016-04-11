@@ -54,8 +54,8 @@
 * [Orion](http://www.orionsites.com/)
 
 ## Santana de Parnaíba
-* [Stefanini](https://stefanini.com/br/)
 * [Capgemini](https://www.br.capgemini.com/)
+* [Stefanini](https://stefanini.com/br/)
 
 ## Santos
 * [Contele](http://www.contele.com.br/)
@@ -70,11 +70,15 @@
 
 ## São Paulo
 * [Codus Tecnologia](http://www.codus.com.br)
+* [Conquestone](http://www.conquestone.com.br/index.php/pt-br/)
+* [CWI](http://www.cwi.com.br/)
 * [Evolux](http://www.evolux.net.br/)
+* [Fujitsu](http://www.fujitsu.com/br/)
 * [Geekie](http://www.geekie.com.br/)
 * [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
+* [Sonda IT](http://www.sondait.com.br/)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
