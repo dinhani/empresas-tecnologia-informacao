@@ -1,5 +1,9 @@
 # Santa Catarina
 
+## Braço do Norte
+* [Trier Sistemas](http://www.triersistemas.com.br/)
+* [Ideall Sistemas](http://www.ideallsistemas.com.br/)
+
 ## Chapecó
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
 
