@@ -13,3 +13,7 @@
 * [Gabster](http://www.gabster.com.br)
 * [BlueCielo](http://www.bluecieloecm.com)
 * [CWI Software](http://www.cwi.com.br)
+
+## Sapiranga
+* [Safetech Informática](http://safetech.inf.br/site/content/home/)
+* [insoft4](http://www.insoft4.com.br/)
