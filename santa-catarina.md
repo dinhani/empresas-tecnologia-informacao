@@ -1,12 +1,18 @@
 # Santa Catarina
 
+## Braço do Norte
+* [Trier Sistemas](http://www.triersistemas.com.br/)
+* [Ideall Sistemas](http://www.ideallsistemas.com.br/)
+
 ## Chapecó
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
 
 ## Criciúma
+* [Betha Sistemas](http://betha.com.br/)
 * [Dominio Sistemas](http://dominiosistemas.com.br/)
 * [InfoData](http://infodataweb.com.br/)
 * [Logosystem](http://logosystem.com.br)
+* [Useall](http://useall.com.br)
 
 ## Joinville
 * [ContaAzul](https://contaazul.com/)
@@ -17,6 +23,19 @@
 
 ## Mafra
 * [Canvas Studio](http://www.canvasstudio.com.br/)
+
+## Tubarão
+* [Branet](http://branet.com.br/)
+* [Cubo Sistemas](http://cubosis.com.br/)
+* [Lenke Automação](http://lenkeautomacao.com.br/)
+* [Logtec Sistemas](http://logtecsistemas.com.br/)
+* [News Soft](http://newssoft.com.br/)
+* [Nuntec](http://nuntec.com.br/)
+* [Tecmedia Internet Design](http://tecmedia.com.br/)
+* [ToolsPharma](http://toolspharma.com.br/)
+* [Trier Sistemas](http://triersistemas.com.br/)
+* [Visual Solutions Software Consultants](http://vsol.us)
+* [WMW Systems](http://wmw.com.br/)
 
 ## Videira
 * [Auryn](http://auryn.com.br/)
