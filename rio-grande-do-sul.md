@@ -5,3 +5,11 @@
 
 ## São Leopoldo
 * [SAP](http://go.sap.com/brazil/index.html)
+* [e-storage](http://www.e-storageonline.com.br)
+* [GrupoMeta](http://www.meta.com.br/site)
+* [GVDASA Sistemas](http://www.gvdasa.com.br)
+* [Stefanini](http://stefanini.com/br)
+* [HCL](http://www.hcltech.com)
+* [Gabster](http://www.gabster.com.br)
+* [BlueCielo](http://www.bluecieloecm.com)
+* [CWI Software](http://www.cwi.com.br)
