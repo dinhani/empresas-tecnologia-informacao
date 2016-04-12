@@ -6,6 +6,7 @@
 * [CINQ](https://www.cinq.com.br)
 * [CTVoicer](http://ctvoicer.com.br)
 * [Deloitte](http://www2.deloitte.com/br/pt.html)
+* [Disys](http://www.disys.com.br)
 * [eWave](http://www.ewave.com.br)
 * [FH Consultoria](http://www.fh.com.br)
 * [Flieger Software](http://fliegersoftware.de)
