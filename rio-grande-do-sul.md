@@ -6,6 +6,10 @@
 ## Novo Hamburgo
 * [Codeminer 42](http://www.codeminer42.com/)
 
+## Porto Alegre
+* [Konecty](http://konecty.com/)
+* [Rocket.Chat](https://rocket.chat/)
+
 ## São Leopoldo
 * [SAP](http://go.sap.com/brazil/index.html)
 * [e-storage](http://www.e-storageonline.com.br)
