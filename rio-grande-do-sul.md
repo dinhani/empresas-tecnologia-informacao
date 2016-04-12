@@ -3,6 +3,9 @@
 ## Canela
 * [Orgânica Digital](http://www.organicadigital.com)
 
+## Novo Hamburgo
+* [Codeminer 42](http://www.codeminer42.com/)
+
 ## São Leopoldo
 * [SAP](http://go.sap.com/brazil/index.html)
 * [e-storage](http://www.e-storageonline.com.br)
@@ -17,6 +20,4 @@
 ## Sapiranga
 * [Safetech Informática](http://safetech.inf.br/site/content/home/)
 * [insoft4](http://www.insoft4.com.br/)
-
-## Novo Hamburgo
-* [Codeminer 42](http://www.codeminer42.com/)
+* 
