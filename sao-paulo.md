@@ -3,14 +3,24 @@
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
+* [TCS](http://www.tcs.com/worldwide/s_america/locations/brazil/Pages/default.aspx)
 
 ## Bauru
+* [Arca Solutions](http://www.arcasolutions.com.br/)
+* [Esapiens](http://www.esapiens.com.br/)
+* [Finch Soluções](http://www.finchsolucoes.com.br/)
+* [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
+* [MSTECH](http://www.mstech.com.br/)
+* [NM Sistemas](http://www.nmsistemas.com.br/)
+* [VSM](http://vsm.com.br/)
+
+
 
 ## Campinas
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
-* [Codeminer42](http://www.codeminer42.com/)
+* [Codeminer42](http://www.codeminer42p´lcom/)
 * [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
@@ -29,6 +39,7 @@
 * [ESX](http://www.esx.com.br/) 
 * [Linked RH](http://www.joinrh.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
+* [Senior](http://www.senior.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
 
 ## Itu
@@ -42,6 +53,13 @@
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
 
+##Ribeirão Preto
+* [Consinco](http://www.consinco.com.br)
+* [iClinic](https://iclinic.com.br)
+* [Jet](http://www.jetecommerce.com.br)
+* [Smarapd](http://www.smarapd.com.br)
+* [Target](http://www.targetsistemas.com)
+
 ## Rio Claro
 * [Caiena](http://www.caiena.net)
 
@@ -51,22 +69,38 @@
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
+## Santana de Parnaíba
+* [Capgemini](https://www.br.capgemini.com/)
+* [Stefanini](https://stefanini.com/br/)
+
 ## Santos
 * [Contele](http://www.contele.com.br/)
 
 ## São Carlos
+* [Monitora](http://monitoratec.com.br/)
 * [ZarpSystem](http://www.zarpsystem.com.br/)
 
 ## São José dos Campos
+* [Focusnetworks](http://www.focusnetworks.com.br)
+* [Gauge](http://www.gauge.com.br)
+* [GSW](http://www.gsw.com.br)
+* [Imagem](http://www.img.com.br)
+* [Phocus Interact](http://www.phocus.com.br)
+* [QMágico](http://www.qmagico.com.br)
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
-* [QMágico](http://www.qmagico.com.br)
 
 ## São Paulo
+* [Codus Tecnologia](http://www.codus.com.br)
+* [Conquestone](http://www.conquestone.com.br/index.php/pt-br/)
+* [CWI](http://www.cwi.com.br/)
 * [Evolux](http://www.evolux.net.br/)
-* [Plataformtec](http://plataformatec.com.br/)
+* [Fujitsu](http://www.fujitsu.com/br/)
+* [Geekie](http://www.geekie.com.br/)
+* [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
+* [Sonda IT](http://www.sondait.com.br/)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
