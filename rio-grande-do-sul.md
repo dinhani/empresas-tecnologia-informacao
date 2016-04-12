@@ -20,4 +20,3 @@
 ## Sapiranga
 * [Safetech Informática](http://safetech.inf.br/site/content/home/)
 * [insoft4](http://www.insoft4.com.br/)
-* 
