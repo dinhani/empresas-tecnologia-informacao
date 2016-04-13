@@ -1,5 +1,23 @@
 # São Paulo
 
+## Sumário
+* [Barueri](#barueri)
+* [Bauru](#bauru)
+* [Campinas](#campinas)
+* [Hortolândia](#hortolândia)
+* [Indaiatuba](#indaiatuba)
+* [Itu](#itu)
+* [Limeira](#limeira)
+* [Ribeirão Preto](#ribeirão-preto)
+* [Rio Claro](#rio-claro)
+* [Salto](#salto)
+* [Santana de Parnaíba](#santana-de-parnaíba)
+* [Santos](#santos)
+* [São Carlos](#são-carlos)
+* [São José dos Campos](#são-josé-dos-campos)
+* [São Paulo](#sao-paulo)
+* [Sorocaba](#sorocaba)
+
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
@@ -14,8 +32,6 @@
 * [MSTECH](http://www.mstech.com.br/)
 * [NM Sistemas](http://www.nmsistemas.com.br/)
 * [VSM](http://vsm.com.br/)
-
-
 
 ## Campinas
 * [Caiena](http://www.caiena.net)
@@ -36,7 +52,7 @@
 ## Indaiatuba
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
-* [ESX](http://www.esx.com.br/) 
+* [ESX](http://www.esx.com.br/)
 * [Linked RH](http://www.joinrh.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
@@ -53,7 +69,7 @@
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
 
-##Ribeirão Preto
+## Ribeirão Preto
 * [Consinco](http://www.consinco.com.br)
 * [iClinic](https://iclinic.com.br)
 * [Jet](http://www.jetecommerce.com.br)
