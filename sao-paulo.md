@@ -71,6 +71,7 @@
 
 ## Ribeirão Preto
 * [Consinco](http://www.consinco.com.br)
+* [Formaweb](http://www.formaweb.com.br)
 * [iClinic](https://iclinic.com.br)
 * [Jet](http://www.jetecommerce.com.br)
 * [Smarapd](http://www.smarapd.com.br)
