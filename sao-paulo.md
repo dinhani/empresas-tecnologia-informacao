@@ -1,5 +1,12 @@
 # São Paulo
 
+## Araraquara
+* [Delivoro](http://www.delivoro.com.br/)
+* [Entelgy](http://www.entelgy.com.br/home)
+* [HP](http://www8.hp.com/br/pt/home.html)
+* [S2it](http://www.s2it.com.br/)
+* [SHX](http://www.shx.com.br/)
+
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
