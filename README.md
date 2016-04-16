@@ -14,6 +14,7 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 | <img src="img/bandeiras/amazonas.png" height="50">            | [Amazonas](/amazonas.md)                          |
 | <img src="img/bandeiras/bahia.png" height="50">               | [Bahia](/bahia.md)                                |
 | <img src="img/bandeiras/ceara.png" height="50">               | [Ceará](/ceara.md)                                |
+| <img src="img/bandeiras/distrito-federal.png" height="50">               | [Distrito Federal](/distrito-federal.md)                                |
 | <img src="img/bandeiras/espirito-santo.png" height="50">      | [Espírito Santo](/espirito-santo.md)              |
 | <img src="img/bandeiras/goias.png" height="50">               | [Goiás](/goias.md)                                |
 | <img src="img/bandeiras/maranhao.png" height="50">            | [Maranhão](/maranhao.md)                          |
