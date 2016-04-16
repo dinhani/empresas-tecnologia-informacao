@@ -31,3 +31,9 @@
 ## Sapiranga
 * [Safetech Informática](http://safetech.inf.br/site/content/home/)
 * [insoft4](http://www.insoft4.com.br/)
+* 
+## Caxias do Sul
+* [Keyworks Tailormade Solutions](http://www.keyworks.com.br/)
+* [Focco Sistemas de Gestão](https://www.focco.com.br)
+
+
