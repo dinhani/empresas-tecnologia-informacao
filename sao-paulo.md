@@ -18,6 +18,10 @@
 * [São Paulo](#sao-paulo)
 * [Sorocaba](#sorocaba)
 
+## Americana
+
+* [Folhamatic](http://www.folhamatic.com.br/home)
+
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
 * [HP](http://www8.hp.com/br/pt/home.html)
