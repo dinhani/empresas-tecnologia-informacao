@@ -2,6 +2,7 @@
 
 ## Sumário
 * [Canela](#canela)
+* [Caxias do Sul](#caxias-do-sul)
 * [Novo Hamburgo](#novo-hamburgo)
 * [Porto Alegre](#porto-alegre)
 * [São Leopoldo](#são-leopoldo)
