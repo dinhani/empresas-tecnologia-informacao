@@ -33,7 +33,7 @@
 * [insoft4](http://www.insoft4.com.br/)
 * 
 ## Caxias do Sul
-* [Keyworks Tailormade Solution](http://www.keyworks.com.br/)
+* [Keyworks Tailormade Solutions](http://www.keyworks.com.br/)
 * [Focco Sistemas de Gestão](https://www.focco.com.br)
 
 
