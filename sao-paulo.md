@@ -1,6 +1,8 @@
 # São Paulo
 
 ## Sumário
+* [Americana](#americana)
+* [Araraquara](#araraquara)
 * [Barueri](#barueri)
 * [Bauru](#bauru)
 * [Campinas](#campinas)
@@ -19,8 +21,14 @@
 * [Sorocaba](#sorocaba)
 
 ## Americana
-
 * [Folhamatic](http://www.folhamatic.com.br/home)
+
+## Araraquara
+* [Delivoro](http://www.delivoro.com.br/)
+* [Entelgy](http://www.entelgy.com.br/home)
+* [HP](http://www8.hp.com/br/pt/home.html)
+* [S2it](http://www.s2it.com.br/)
+* [SHX](http://www.shx.com.br/)
 
 ## Barueri
 * [e-Deploy](http://www.e-deploy.com.br/)
