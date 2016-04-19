@@ -10,6 +10,7 @@
 * [Indaiatuba](#indaiatuba)
 * [Itu](#itu)
 * [Limeira](#limeira)
+* [Pindamonhangaba](#pindamonhangaba)
 * [Ribeirão Preto](#ribeirão-preto)
 * [Rio Claro](#rio-claro)
 * [Salto](#salto)
@@ -80,6 +81,9 @@
 
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
+
+## Pindamonhangaba
+* [Designa](http://designa.com.br/)
 
 ## Ribeirão Preto
 * [Consinco](http://www.consinco.com.br)
