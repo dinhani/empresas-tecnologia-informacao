@@ -61,6 +61,7 @@
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
+* [Magneti Marelli](http://www.magnetimarelli.com/pt/)
 
 ## Indaiatuba
 * [Biro2000](http://www.biro2000.com.br/)
