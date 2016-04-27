@@ -67,6 +67,7 @@
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
 * [ESX](http://www.esx.com.br/)
+* [GAS Tecnologia](http://www.gastecnologia.com/)
 * [Live4App](http://live4app.com/)
 * [Linked RH](http://www.joinrh.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
