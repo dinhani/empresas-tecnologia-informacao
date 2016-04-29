@@ -121,6 +121,7 @@
 * [Gauge](http://www.gauge.com.br)
 * [GSW](http://www.gsw.com.br)
 * [Imagem](http://www.img.com.br)
+* [Move Digital](http://movedigital.com.br)
 * [Phocus Interact](http://www.phocus.com.br)
 * [QMágico](http://www.qmagico.com.br)
 * [Sonda IT](http://www.sondait.com.br/)
