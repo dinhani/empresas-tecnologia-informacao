@@ -24,9 +24,13 @@
 * [Useall](http://useall.com.br)
 
 ## Joinville
+* [Asaas](https://www.asaas.com/)
 * [ContaAzul](https://contaazul.com/)
 * [Collabo](https://www.collabo.com.br/)
 * [Humantech](https://www.humantech.com.br/)
+* [Informant](http://www.informant.com.br/)
+* [Meus Pedidos](https://meuspedidos.com.br/)
+* [NeoGrid](https://www.neogrid.com/br)
 * [SoftExpert](https://www.softexpert.com.br/)
 * [Totvs](https://www.totvs.com/)
 
