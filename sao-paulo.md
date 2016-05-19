@@ -126,6 +126,7 @@
 * [QMágico](http://www.qmagico.com.br)
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
+* [Zigotto](http://www.zigotto.com)
 
 ## São Paulo
 * [Codus Tecnologia](http://www.codus.com.br)
