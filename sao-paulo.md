@@ -151,4 +151,6 @@
 * [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
-* [Smyowl](http://www.smyowl.com/)
+* [Smyowl](http://www.smyowl.com/)* 
+* [Splice](http://www.splice.com.br/)
+* [Uppertools](http://www.uppertools.com.br/)
