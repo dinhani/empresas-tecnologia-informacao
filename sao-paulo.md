@@ -9,6 +9,7 @@
 * [Hortolândia](#hortolândia)
 * [Indaiatuba](#indaiatuba)
 * [Itu](#itu)
+* [Jundiaí](#jundiaí)
 * [Limeira](#limeira)
 * [Pindamonhangaba](#pindamonhangaba)
 * [Ribeirão Preto](#ribeirão-preto)
@@ -84,6 +85,9 @@
 * [Mega Sistemas](http://www.mega.com.br/home/)
 * [Renasoft](http://www.renasoft.com.br/)
 * [Top Deals](http://topdeals.com.br/)
+
+## Jundiaí
+* [Bematech](http://www.bematech.com.br/)
 
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
