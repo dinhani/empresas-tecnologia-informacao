@@ -77,6 +77,7 @@
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
+* [Verotthi](http://verotthi.com.br/)
 
 ## Itu
 * [Datapar](http://www.datapar.com.br/home/)
