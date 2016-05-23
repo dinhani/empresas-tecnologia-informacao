@@ -47,6 +47,7 @@
 * [VSM](http://vsm.com.br/)
 
 ## Campinas
+* [Art IT](http://artit.com.br/)
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
 * [Codeminer42](http://www.codeminer42p´lcom/)
@@ -57,7 +58,9 @@
 * [Movile](https://www.movile.com/pt/)
 * [Padtec](http://www.padtec.com.br/)
 * [Sensedia](http://sensedia.com/)
+* [Softvaro](http://www.softvaro.com.br/) 
 * [Venturus](http://www.venturus.org.br/site/)
+* [Verisoft](http://www.verisoft.com.br/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
