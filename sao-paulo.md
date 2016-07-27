@@ -103,6 +103,7 @@
 * [Jet](http://www.jetecommerce.com.br)
 * [Smarapd](http://www.smarapd.com.br)
 * [Target](http://www.targetsistemas.com)
+* [ComunicaWeb](http://www.comunicaweb.com.br)
 
 ## Rio Claro
 * [Caiena](http://www.caiena.net)
