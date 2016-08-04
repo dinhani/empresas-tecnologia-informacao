@@ -5,6 +5,7 @@
 * [Araraquara](#araraquara)
 * [Barueri](#barueri)
 * [Bauru](#bauru)
+* [Botucatu](#botucatu)
 * [Campinas](#campinas)
 * [Hortolândia](#hortolândia)
 * [Indaiatuba](#indaiatuba)
@@ -47,6 +48,9 @@
 * [MSTECH](http://www.mstech.com.br/)
 * [NM Sistemas](http://www.nmsistemas.com.br/)
 * [VSM](http://vsm.com.br/)
+
+## Botucatu
+* [Consciência](http://www.consciencia.com.br/)
 
 ## Campinas
 * [Art IT](http://artit.com.br/)
