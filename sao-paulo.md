@@ -26,6 +26,7 @@
 * [Folhamatic](http://www.folhamatic.com.br/home)
 
 ## Araraquara
+* [Datum TI](http://www.datum.inf.br/)
 * [Delivoro](http://www.delivoro.com.br/)
 * [Entelgy](http://www.entelgy.com.br/home)
 * [HP](http://www8.hp.com/br/pt/home.html)
