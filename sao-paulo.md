@@ -46,7 +46,9 @@
 * [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
 * [MSTECH](http://www.mstech.com.br/)
+* [NeoAssist](http://www.neoassist.com/)
 * [NM Sistemas](http://www.nmsistemas.com.br/)
+* [TOTVS](https://www.totvs.com/oeste-paulista-bauru)
 * [VSM](http://vsm.com.br/)
 
 ## Botucatu
@@ -127,6 +129,8 @@
 * [Contele](http://www.contele.com.br/)
 
 ## São Carlos
+* [Amdocs](http://pt.amdocs.com/pages/homepage.aspx)
+* [Guarani Sistemas](http://www.guaranisistemas.com.br/)
 * [Monitora](http://monitoratec.com.br/)
 * [ZarpSystem](http://www.zarpsystem.com.br/)
 
