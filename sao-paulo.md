@@ -75,15 +75,20 @@
 * [Magneti Marelli](http://www.magnetimarelli.com/pt/)
 
 ## Indaiatuba
+* [ATM Digital](https://www.atmdigital.com.br/)
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
+* [CNS](http://cns.net.br/)
+* [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
 * [GAS Tecnologia](http://www.gastecnologia.com/)
 * [Live4App](http://live4app.com/)
 * [Linked RH](http://www.joinrh.com.br/)
+* [Mostraweb](http://www.mostraweb.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
+* [Union Software](http://www.uso.com.br/)
 * [Verotthi](http://verotthi.com.br/)
 
 ## Itu
