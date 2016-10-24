@@ -117,7 +117,6 @@
 
 ## Salto
 * [ACSN](http://www.acsn.com.br/site/)
-* [e-Deploy](http://www.e-deploy.com.br/)
 * [HLP](http://www.hlp.com.br/)
 * [Orion](http://www.orionsites.com/)
 
