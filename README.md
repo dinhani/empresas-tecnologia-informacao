@@ -1,6 +1,6 @@
-# Empresas de TI
+# Empresas de Tecnologia da Informação
 
-Esse projeto tem o objetivo de listar todas as empresas da área de tecnologia da informação do Brasil classificando-as pelas cidades onde estão presentes.
+Esse projeto tem o objetivo de listar empresas da área de tecnologia da informação do Brasil classificando-as pelas cidades onde estão presentes.
 
 Contribuições para o projeto são bem-vindas e necessárias para que o catálogo de empresas fique completo.
 
