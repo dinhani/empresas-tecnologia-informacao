@@ -8,6 +8,6 @@
 * [made with love](https://madewithlove.be/)
 
 ## Estados Unidos
-* [LivingSocial](https://www.livingsocial.com/
+* [LivingSocial](https://www.livingsocial.com/)
 * [Quimbik](https://www.quimbik.com/)
 * [Tidy](http://tidy.com/)
