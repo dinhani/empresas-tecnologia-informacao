@@ -75,6 +75,7 @@
 * [Magneti Marelli](http://www.magnetimarelli.com/pt/)
 
 ## Indaiatuba
+* [AskTech](http://www.asktech.com.br/)
 * [ATM Digital](https://www.atmdigital.com.br/)
 * [Biro2000](http://www.biro2000.com.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
