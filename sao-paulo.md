@@ -82,7 +82,7 @@
 * [CNS](http://cns.net.br/)
 * [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
-* [GAS Tecnologia](http://www.gastecnologia.com/)
+* [GAS Tecnologia](http://www.gastecnologia.com.br/)
 * [Live4App](http://live4app.com/)
 * [Linked RH](http://www.joinrh.com.br/)
 * [Mostraweb](http://www.mostraweb.com.br/)
