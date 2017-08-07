@@ -7,6 +7,7 @@
 * [Porto Alegre](#porto-alegre)
 * [São Leopoldo](#são-leopoldo)
 * [Sapiranga](#sapiranga)
+* [Horizontina](#horizontina)
 
 ## Canela
 * [Orgânica Digital](http://www.organicadigital.com)
@@ -21,6 +22,9 @@
 ## Porto Alegre
 * [Konecty](http://konecty.com/)
 * [Rocket.Chat](https://rocket.chat/)
+* [ilegra](http://ilegra.com/)
+* [Safeweb Segurança da Informação](https://safeweb.com.br/)
+* [4all](http://4all.com/)
 
 ## São Leopoldo
 * [SAP](http://go.sap.com/brazil/index.html)
@@ -36,3 +40,7 @@
 ## Sapiranga
 * [Safetech Informática](http://safetech.inf.br/site/content/home/)
 * [insoft4](http://www.insoft4.com.br/)
+
+## Horizontina
+* [Tecnicon Sistemas Gerenciais](http://www.tecnicon.com.br/)
+
