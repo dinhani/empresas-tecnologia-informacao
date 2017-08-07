@@ -25,6 +25,8 @@
 * [ilegra](http://ilegra.com/)
 * [Safeweb Segurança da Informação](https://safeweb.com.br/)
 * [4all](http://4all.com/)
+* [TOTVS](https://www.totvs.com/)
+* [Zallpy](http://zallpy.com/)
 
 ## São Leopoldo
 * [SAP](http://go.sap.com/brazil/index.html)
