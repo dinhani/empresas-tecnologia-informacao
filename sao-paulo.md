@@ -110,13 +110,14 @@
 * [Designa](http://designa.com.br/)
 
 ## Ribeirão Preto
+* [ComunicaWeb](http://www.comunicaweb.com.br)
 * [Consinco](http://www.consinco.com.br)
 * [Formaweb](http://www.formaweb.com.br)
 * [iClinic](https://iclinic.com.br)
 * [Jet](http://www.jetecommerce.com.br)
 * [Smarapd](http://www.smarapd.com.br)
 * [Target](http://www.targetsistemas.com)
-* [ComunicaWeb](http://www.comunicaweb.com.br)
+* [Techno Software](http://www.technosoftware.com.br)
 
 ## Rio Claro
 * [Caiena](http://www.caiena.net)
