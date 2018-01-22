@@ -1,4 +1,5 @@
 # Empresas de Tecnologia da Informação
+[![Build Status](https://img.shields.io/travis/waghcwb/empresas-tecnologia-informacao/master.svg?style=flat-square)](https://travis-ci.org/waghcwb/empresas-tecnologia-informacao)
 
 Esse projeto tem o objetivo de listar empresas da área de tecnologia da informação do Brasil classificando-as pelas cidades onde estão presentes.
 
