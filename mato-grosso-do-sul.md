@@ -3,7 +3,7 @@
 ## Campo Grande
 * [AZ Informática](http://www.azi.com.br/)
 * [Before Tecnologia da Informação](http://www.before.com.br/)
-* [DígithoBrasil](http://www.digithobrasil.com.br/)
+* [Digix](http://www.digix.com.br/)
 * [Financial Sistemas](http://www.financialsistemas.com.br/)
 * [Jera](http://www.jera.com.br/)
 * [Nastek](http://www.nastek.com.br/)
