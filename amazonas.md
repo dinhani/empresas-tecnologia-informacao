@@ -4,7 +4,7 @@
 * [Manus](#manus)
 * [Manacapuru](#manacapuru)
 
-## Manus
+## Manaus
 
 * [Arko Soluções Inteligentes](http://www.arkosolucoes.com.br)
 * [CERTI](http://www.certi.org.br/)
