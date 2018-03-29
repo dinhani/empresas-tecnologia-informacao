@@ -43,7 +43,7 @@
 * [Lenke Automação](http://lenkeautomacao.com.br/)
 * [Lite Automação](http://www.liteautomacao.com.br/)
 * [Logtec Sistemas](http://logtecsistemas.com.br/)
-* [News Soft](http://newssoft.com.br/)
+* [News Soft](http://www.newssoft.com.br/)
 * [Nuntec](http://nuntec.com.br/)
 * [OSTEC](https://www.ostec.com.br/)
 * [Tecmedia Internet Design](http://tecmedia.com.br/)
