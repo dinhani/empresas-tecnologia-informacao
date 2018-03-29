@@ -5,7 +5,7 @@
 * [Juazeiro do Norte](#juazeiro-do-norte)
 
 ## Fortaleza
-* [Agenda Kids](https://agendakidsdigital.com/) ([#vagas](https://github.com/agendakids/vagas), [#github](https://github.com/agendakids))
+* [Agenda Kids](https://agendakidsdigital.com/)
 
 ## Juazeiro do Norte
 * [Handhead](http://handhead.com.br/)
