@@ -22,6 +22,7 @@
 * [São José dos Campos](#são-josé-dos-campos)
 * [São Paulo](#sao-paulo)
 * [Sorocaba](#sorocaba)
+* [Votorantim](#votorantim)
 
 ## Americana
 * [Folhamatic](http://www.folhamatic.com.br/home)
@@ -171,3 +172,6 @@
 * [Smyowl](http://www.smyowl.com/)* 
 * [Splice](http://www.splice.com.br/)
 * [Uppertools](http://www.uppertools.com.br/)
+
+## Votorantim
+* [Ventron](http://www.ventron.com.br/)
