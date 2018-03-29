@@ -40,7 +40,7 @@
 * [CWI Software](http://www.cwi.com.br)
 
 ## Sapiranga
-* [Safetech Informática](http://safetech.inf.br/site/content/home/)
+* [Safetech Informática](http://www.safetech.inf.br/home/)
 * [insoft4](http://www.insoft4.com.br/)
 
 ## Horizontina
