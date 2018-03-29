@@ -21,7 +21,6 @@
 * [Pelissari](http://www.pelissari.com.br)
 * [Premier](http://www.premierit.com.br)
 * [Stefanini](https://stefanini.com/br)
-* [TechResult](https://www.linkedin.com/company/techresult-it-solutions/)
 * [The Cities](http://www.thecities.com.br)
 * [Tivit](http://www.tivit.com.br)
 * [Tuxon](http://www.tuxon.com.br)
