@@ -8,7 +8,6 @@
 * [Nova M3](http://www.novam3.com.br/)
 * [Olimpus Tecnologia](http://www.olimpustecnologia.com.br/)
 * [Peggasus](http://www.peggasus.com.br/)
-* [Soft House Natal](http://softhousenatal.com.br/)
 * [SoftLine](http://www.softlinesolucoes.com.br/)
 * [Tec-Soft Informática](http://www.tecsoft.info/)
 * [Velty](http://www.velty.com.br/)
