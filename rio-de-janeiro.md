@@ -19,7 +19,7 @@
 * [Pipoca Digital](http://www.pipocadigital.com.br/)
 * [Stefanini](https://stefanini.com/br/)
 * [SoftTek](http://www.softtek.com/)
-* [Target Solutions](http://www.targetso.com/portal/)
+* [Target Solutions](https://www.targetso.com/)
 * [TechMahindra](http://www.techmahindra.com/)
 * [Triscal](http://www.triscal.com.br/pt/)
 * [To-Brasil](http://www.to-brasil.com/)
