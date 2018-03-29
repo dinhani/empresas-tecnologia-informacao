@@ -55,10 +55,9 @@
 * [Consciência](http://www.consciencia.com.br/)
 
 ## Campinas
-* [Art IT](http://artit.com.br/)
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
-* [Codeminer42](http://www.codeminer42p´lcom/)
+* [Codeminer42](http://www.codeminer42.com/)
 * [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
@@ -83,9 +82,7 @@
 * [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
 * [GAS Tecnologia](http://www.gastecnologia.com.br/)
-* [Live4App](http://live4app.com/)
 * [Linked RH](http://www.joinrh.com.br/)
-* [Mostraweb](http://www.mostraweb.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
@@ -123,7 +120,7 @@
 * [Caiena](http://www.caiena.net)
 
 ## Salto
-* [ACSN](http://www.acsn.com.br/site/)
+* [ACSN](http://www.acsn.com.br/)
 * [HLP](http://www.hlp.com.br/)
 * [LayoutNET](http://layoutnet.com.br/)
 * [JLJ](http://www.jljempresas.com.br/)
@@ -137,7 +134,7 @@
 * [Contele](http://www.contele.com.br/)
 
 ## São Carlos
-* [Amdocs](http://pt.amdocs.com/pages/homepage.aspx)
+* [Amdocs](https://www.amdocs.com/)
 * [Guarani Sistemas](http://www.guaranisistemas.com.br/)
 * [Monitora](http://monitoratec.com.br/)
 * [ZarpSystem](http://www.zarpsystem.com.br/)
