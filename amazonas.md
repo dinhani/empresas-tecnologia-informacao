@@ -9,8 +9,6 @@
 * [Arko Soluções Inteligentes](http://www.arkosolucoes.com.br)
 * [CERTI](http://www.certi.org.br/)
 * [CITS](http://www.cits.br/)
-* [DIVUS](http://divus.com.br/)
-* [DOMMA TI](https://www.linkedin.com/company/domma-tecnologia-da-informa-o-ltda)
 * [FABRIQ](https://www.fabriq.io/)
 * [FPF TEch](http://www.fpftech.com/contato/)
 * [FUCAPI](http://www.fucapi.br)
