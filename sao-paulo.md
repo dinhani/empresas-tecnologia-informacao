@@ -152,6 +152,7 @@
 * [Zigotto](http://www.zigotto.com)
 
 ## São Paulo
+* [Clubinvest](https://www.clubinvest.io)
 * [Codus Tecnologia](http://www.codus.com.br)
 * [Conquestone](http://www.conquestone.com.br/index.php/pt-br/)
 * [CWI](http://www.cwi.com.br/)
