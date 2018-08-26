@@ -67,7 +67,7 @@
 * [Movile](https://www.movile.com/pt/)
 * [Padtec](http://www.padtec.com.br/)
 * [Sensedia](http://sensedia.com/)
-* [Softvaro](http://www.softvaro.com.br/) 
+* [Softvaro](http://www.softvaro.com.br/)
 * [Venturus](http://www.venturus.org.br/site/)
 * [Verisoft](http://www.verisoft.com.br/)
 
@@ -179,6 +179,7 @@
 * [Fujitsu](http://www.fujitsu.com/br/)
 * [Geekie](http://www.geekie.com.br/)
 * [Intuit](http://www.quickbooks.com.br/)
+* [Nubank](https://www.nubank.com.br/carreiras/)
 * [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
@@ -188,7 +189,7 @@
 * [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
-* [Smyowl](http://www.smyowl.com/)* 
+* [Smyowl](http://www.smyowl.com/)*
 * [Splice](http://www.splice.com.br/)
 * [Uppertools](http://www.uppertools.com.br/)
 
