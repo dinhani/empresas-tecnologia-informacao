@@ -179,6 +179,7 @@
 * [Evolux](http://www.evolux.net.br/)
 * [Fujitsu](http://www.fujitsu.com/br/)
 * [Geekie](http://www.geekie.com.br/)
+* [GetNinjas](https://www.getninjas.com.br/)
 * [Intuit](http://www.quickbooks.com.br/)
 * [LuizaLabz](https://medium.com/luizalabs)
 * [Nubank](https://www.nubank.com.br/carreiras/)
