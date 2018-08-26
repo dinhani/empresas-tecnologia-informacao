@@ -57,12 +57,13 @@
 * [Consciência](http://www.consciencia.com.br/)
 
 ## Campinas
-* [CI&T](http://www.ciandt.com/br-pt)
-* [CPQD](http://www.cpqd.com.br/)
 * [Caiena](http://www.caiena.net)
+* [CI&T](http://www.ciandt.com/br-pt)
 * [Codeminer42](http://www.codeminer42.com/)
+* [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
+* [e.Mix](https://emix.com.br/)
 * [Matera](http://www.matera.com/br/)
 * [Movile](https://www.movile.com/pt/)
 * [Padtec](http://www.padtec.com.br/)
@@ -70,7 +71,7 @@
 * [Softvaro](http://www.softvaro.com.br/)
 * [Venturus](http://www.venturus.org.br/site/)
 * [Verisoft](http://www.verisoft.com.br/)
-* [e.Mix](https://emix.com.br/)
+* [Webcompany](https://webcompany.com.br/)
 
 ## Franca
 * [AnDes Sistemas](http://www.andessistemas.com.br/)
@@ -96,14 +97,15 @@
 * [Magneti Marelli](http://www.magnetimarelli.com/pt/)
 
 ## Indaiatuba
-* [ATM Digital](https://www.atmdigital.com.br/)
 * [AskTech](http://www.asktech.com.br/)
+* [ATM Digital](https://www.atmdigital.com.br/)
 * [Biro2000](http://www.biro2000.com.br/)
-* [CNS](http://cns.net.br/)
 * [Carreira Muller](http://www.carreira.com.br/)
+* [CNS](http://cns.net.br/)
 * [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
 * [GAS Tecnologia](http://www.gastecnologia.com.br/)
+* [Guia-se](https://www.guiase.com.br/)
 * [Linked RH](http://www.joinrh.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
