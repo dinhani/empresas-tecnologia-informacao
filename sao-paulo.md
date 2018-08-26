@@ -162,8 +162,12 @@
 
 ## Salto
 * [ACSN](http://www.acsn.com.br/)
+* [Base Automação](http://www.baseautomacao.com.br/)
+* [Delogic](https://www.delogic.com.br/)
+* [FDI Sistemas](http://fdisistemas.com.br/)
 * [HLP](http://www.hlp.com.br/)
 * [LayoutNET](http://layoutnet.com.br/)
+* [NConn](http://www.nconn.com.br/)
 * [Orion](http://www.orionsites.com/)
 
 ## Santana de Parnaíba
