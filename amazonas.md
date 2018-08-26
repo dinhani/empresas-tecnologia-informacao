@@ -1,11 +1,10 @@
 # Amazonas
 
 ## Sumário
-* [Manus](#manus)
 * [Manacapuru](#manacapuru)
+* [Manus](#manus)
 
 ## Manaus
-
 * [Arko Soluções Inteligentes](http://www.arkosolucoes.com.br)
 * [CERTI](http://www.certi.org.br/)
 * [CITS](http://www.cits.br/)
@@ -21,5 +20,4 @@
 * [Tree of Dreams Game Studio](http://www.trdreams.com/)
 
 ## Manacapuru
-
 * [FUCAPI](http://www.fucapi.br)

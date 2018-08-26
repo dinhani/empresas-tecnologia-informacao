@@ -8,7 +8,6 @@
 * [Agência Lumen](http://www.agencialumen.com.br/)
 
 ## Maceió
-
 * [Audora](http://audora.com.br/)
 * [Bluevox](http://www.bluevox.com.br/)
 * [Doity](https://www.doity.com.br/)

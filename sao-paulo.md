@@ -48,8 +48,8 @@
 * [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
 * [MSTECH](http://www.mstech.com.br/)
-* [NeoAssist](http://www.neoassist.com/)
 * [NM Sistemas](http://www.nmsistemas.com.br/)
+* [NeoAssist](http://www.neoassist.com/)
 * [TOTVS](https://www.totvs.com/oeste-paulista-bauru)
 * [VSM](http://vsm.com.br/)
 
@@ -57,10 +57,10 @@
 * [Consciência](http://www.consciencia.com.br/)
 
 ## Campinas
-* [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
-* [Codeminer42](http://www.codeminer42.com/)
 * [CPQD](http://www.cpqd.com.br/)
+* [Caiena](http://www.caiena.net)
+* [Codeminer42](http://www.codeminer42.com/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
 * [Matera](http://www.matera.com/br/)
@@ -74,20 +74,20 @@
 ## Franca
 * [AnDes Sistemas](http://www.andessistemas.com.br/)
 * [Betta Tecnologia S/A](http://bettatecnologia.com.br/)
-* [cloudwalk](https://www.cloudwalk.io/)
 * [CHB Sistemas](http://www.chb.com.br/)
+* [cloudwalk](https://www.cloudwalk.io/)
 * [Eddydata Serviços de Informática](http://www.eddydata.com/)
-* [ERnetwork - Soluções em TI](http://www.ernetwork.com.br/)
 * [Enter Plug Sistemas](http://enterplug.com.br/)
+* [ERnetwork - Soluções em TI](http://www.ernetwork.com.br/)
 * [ForIP Tecnologia](http://www.forip.com.br/)
-* [indb](http://www.indb.com.br/)
 * [Incca Sistemas](http://www.incca.com.br/)
+* [indb](http://www.indb.com.br/)
 * [Innovare Company](http://www.innovarecompany.com.br/)
 * [JRTI Sistemas](http://www.jrti.com.br/)
 * [PrintMac Tecnologia da Informação](http://www.printmac.com.br/)
-* [Softup Sistemas](http://softup.com.br/home.aspx)
-* [softpool](https://www.softpool.com.br/)
 * [SMN Tecnologia](http://www.smn.com.br/)
+* [softpool](https://www.softpool.com.br/)
+* [Softup Sistemas](http://softup.com.br/home.aspx)
 * [T&T Sistemas](https://tetsistemas.com.br/)
 
 ## Hortolândia
@@ -95,11 +95,11 @@
 * [Magneti Marelli](http://www.magnetimarelli.com/pt/)
 
 ## Indaiatuba
-* [AskTech](http://www.asktech.com.br/)
 * [ATM Digital](https://www.atmdigital.com.br/)
+* [AskTech](http://www.asktech.com.br/)
 * [Biro2000](http://www.biro2000.com.br/)
-* [Carreira Muller](http://www.carreira.com.br/)
 * [CNS](http://cns.net.br/)
+* [Carreira Muller](http://www.carreira.com.br/)
 * [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
 * [GAS Tecnologia](http://www.gastecnologia.com.br/)
@@ -189,7 +189,7 @@
 * [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
-* [Smyowl](http://www.smyowl.com/)*
+* [Smyowl](http://www.smyowl.com/)
 * [Splice](http://www.splice.com.br/)
 * [Uppertools](http://www.uppertools.com.br/)
 

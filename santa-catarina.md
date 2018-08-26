@@ -25,8 +25,8 @@
 
 ## Joinville
 * [Asaas](https://www.asaas.com/)
-* [ContaAzul](https://contaazul.com/)
 * [Collabo](https://www.collabo.com.br/)
+* [ContaAzul](https://contaazul.com/)
 * [Humantech](https://www.humantech.com.br/)
 * [Informant](http://www.informant.com.br/)
 * [Meus Pedidos](https://meuspedidos.com.br/)
