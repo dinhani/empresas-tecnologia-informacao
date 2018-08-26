@@ -70,6 +70,7 @@
 * [Softvaro](http://www.softvaro.com.br/)
 * [Venturus](http://www.venturus.org.br/site/)
 * [Verisoft](http://www.verisoft.com.br/)
+* [e.Mix](https://emix.com.br/)
 
 ## Franca
 * [AnDes Sistemas](http://www.andessistemas.com.br/)
