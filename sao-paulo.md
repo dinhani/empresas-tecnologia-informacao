@@ -176,6 +176,7 @@
 * [Codus Tecnologia](http://www.codus.com.br)
 * [Conquestone](http://www.conquestone.com.br/index.php/pt-br/)
 * [CWI](http://www.cwi.com.br/)
+* [Easynvest](https://www.easynvest.com.br/carreiras.html)
 * [Evolux](http://www.evolux.net.br/)
 * [Fujitsu](http://www.fujitsu.com/br/)
 * [Geekie](http://www.geekie.com.br/)
