@@ -31,6 +31,7 @@
 * [Informant](http://www.informant.com.br/)
 * [Meus Pedidos](https://meuspedidos.com.br/)
 * [NeoGrid](https://www.neogrid.com/br)
+* [NG Informática](http://www.ngi.com.br)
 * [SoftExpert](https://www.softexpert.com.br/)
 * [Totvs](https://www.totvs.com/)
 
