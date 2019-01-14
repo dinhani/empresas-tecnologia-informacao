@@ -197,6 +197,7 @@
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
 * [Zigotto](http://www.zigotto.com)
+* [Guichê Virtual](https://www.guichevirtual.com.br/)
 
 ## São Paulo
 * [Atech](https://www.atech.com.br/)
