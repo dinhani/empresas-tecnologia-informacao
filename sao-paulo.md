@@ -7,7 +7,7 @@
 * [Bauru](#bauru)
 * [Botucatu](#botucatu)
 * [Campinas](#campinas)
-* [Franca](#franca)
+* [Guaratinguetá](#guaratinguetá)
 * [Hortolândia](#hortolândia)
 * [Indaiatuba](#indaiatuba)
 * [Itu](#itu)
@@ -23,7 +23,6 @@
 * [São José dos Campos](#são-josé-dos-campos)
 * [São Paulo](#sao-paulo)
 * [Sorocaba](#sorocaba)
-* [Votorantim](#votorantim)
 
 ## Americana
 * [Folhamatic](http://www.folhamatic.com.br/home)
@@ -48,8 +47,8 @@
 * [Firework](http://fireworkweb.com/)
 * [Lecom](http://www.lecom.com.br/)
 * [MSTECH](http://www.mstech.com.br/)
-* [NM Sistemas](http://www.nmsistemas.com.br/)
 * [NeoAssist](http://www.neoassist.com/)
+* [NM Sistemas](http://www.nmsistemas.com.br/)
 * [TOTVS](https://www.totvs.com/oeste-paulista-bauru)
 * [VSM](http://vsm.com.br/)
 
@@ -57,60 +56,23 @@
 * [Consciência](http://www.consciencia.com.br/)
 
 ## Campinas
-* [Alboom](https://www.alboompro.com/)
-* [Apitto](http://appito.club/)
-* [Asseritva](http://www.assertivasolucoes.com.br/)
-* [Bulldesk](https://bulldesk.com.br/)
+* [Art IT](http://artit.com.br/)
 * [Caiena](http://www.caiena.net)
 * [CI&T](http://www.ciandt.com/br-pt)
-* [Codeminer42](http://www.codeminer42.com/)
+* [Codeminer42](http://www.codeminer42p´lcom/)
 * [CPQD](http://www.cpqd.com.br/)
 * [Daitan](http://www.daitangroup.com/)
 * [Dextra](http://dextra.com.br/)
-* [e.Mix](https://emix.com.br/)
-* [Evulocional](http://www.evolucional.com.br/)
-* [Galoá](https://galoa.com.br/)
-* [Geofusion](https://geofusion.com.br/)
-* [GoMakers](https://gomakers.com.br/)
-* [HDN IT](http://hdnit.com.br/)
-* [HST Card Technology](http://www.hst.com.br/pt/index.html)
-* [InGaia](http://www.ingaia.com.br/)
-* [Ingresso Rápido](https://careers.ingressorapido.com.br/)
 * [Matera](http://www.matera.com/br/)
-* [Mix Fiscal](http://www.mixfiscal.com.br/)
 * [Movile](https://www.movile.com/pt/)
-* [NB8 Digital](https://nb8.digital/)
 * [Padtec](http://www.padtec.com.br/)
-* [Poppin](https://startpoppin.com/)
-* [ProScore](https://www.proscore.com.br/)
 * [Sensedia](http://sensedia.com/)
-* [Softvaro](http://www.softvaro.com.br/)
-* [StarCorp](http://www.starcorp.com.br/)
-* [Superlógica](https://www.superlogica.com/)
-* [UPX](https://www.upx.com/)
+* [Softvaro](http://www.softvaro.com.br/) 
 * [Venturus](http://www.venturus.org.br/site/)
 * [Verisoft](http://www.verisoft.com.br/)
-* [Webcompany](https://webcompany.com.br/)
-* [Zup](http://www.zup.com.br/)
 
-## Franca
-* [AnDes Sistemas](http://www.andessistemas.com.br/)
-* [Betta Tecnologia S/A](http://bettatecnologia.com.br/)
-* [CHB Sistemas](http://www.chb.com.br/)
-* [cloudwalk](https://www.cloudwalk.io/)
-* [Eddydata Serviços de Informática](http://www.eddydata.com/)
-* [Enter Plug Sistemas](http://enterplug.com.br/)
-* [ERnetwork - Soluções em TI](http://www.ernetwork.com.br/)
-* [ForIP Tecnologia](http://www.forip.com.br/)
-* [Incca Sistemas](http://www.incca.com.br/)
-* [indb](http://www.indb.com.br/)
-* [Innovare Company](http://www.innovarecompany.com.br/)
-* [JRTI Sistemas](http://www.jrti.com.br/)
-* [PrintMac Tecnologia da Informação](http://www.printmac.com.br/)
-* [SMN Tecnologia](http://www.smn.com.br/)
-* [softpool](https://www.softpool.com.br/)
-* [Softup Sistemas](http://softup.com.br/home.aspx)
-* [T&T Sistemas](https://tetsistemas.com.br/)
+## Guaratinguetá
+* [SOFTVALE Sistemas e Serviços](http://www.softvale.com.br/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
@@ -124,9 +86,10 @@
 * [CNS](http://cns.net.br/)
 * [Digital Sigma](http://www.digitalsigma.com.br/)
 * [ESX](http://www.esx.com.br/)
-* [GAS Tecnologia](http://www.gastecnologia.com.br/)
-* [Guia-se](https://www.guiase.com.br/)
+* [GAS Tecnologia](http://www.gastecnologia.com/)
+* [Live4App](http://live4app.com/)
 * [Linked RH](http://www.joinrh.com.br/)
+* [Mostraweb](http://www.mostraweb.com.br/)
 * [Nano Incub](http://www.nanoincub.com.br/)
 * [Senior](http://www.senior.com.br/)
 * [Sonda IT](http://www.sondait.com.br/)
@@ -151,26 +114,22 @@
 * [Designa](http://designa.com.br/)
 
 ## Ribeirão Preto
-* [ComunicaWeb](http://www.comunicaweb.com.br)
 * [Consinco](http://www.consinco.com.br)
 * [Formaweb](http://www.formaweb.com.br)
 * [iClinic](https://iclinic.com.br)
 * [Jet](http://www.jetecommerce.com.br)
 * [Smarapd](http://www.smarapd.com.br)
 * [Target](http://www.targetsistemas.com)
-* [Techno Software](http://www.technosoftware.com.br)
+* [ComunicaWeb](http://www.comunicaweb.com.br)
 
 ## Rio Claro
 * [Caiena](http://www.caiena.net)
 
 ## Salto
-* [ACSN](http://www.acsn.com.br/)
-* [Base Automação](http://www.baseautomacao.com.br/)
-* [Delogic](https://www.delogic.com.br/)
-* [FDI Sistemas](http://fdisistemas.com.br/)
+* [ACSN](http://www.acsn.com.br/site/)
 * [HLP](http://www.hlp.com.br/)
 * [LayoutNET](http://layoutnet.com.br/)
-* [NConn](http://www.nconn.com.br/)
+* [JLJ](http://www.jljempresas.com.br/)
 * [Orion](http://www.orionsites.com/)
 
 ## Santana de Parnaíba
@@ -181,7 +140,7 @@
 * [Contele](http://www.contele.com.br/)
 
 ## São Carlos
-* [Amdocs](https://www.amdocs.com/)
+* [Amdocs](http://pt.amdocs.com/pages/homepage.aspx)
 * [Guarani Sistemas](http://www.guaranisistemas.com.br/)
 * [Monitora](http://monitoratec.com.br/)
 * [ZarpSystem](http://www.zarpsystem.com.br/)
@@ -197,38 +156,29 @@
 * [Sonda IT](http://www.sondait.com.br/)
 * [Tivit](http://www.tivit.com.br)
 * [Zigotto](http://www.zigotto.com)
-* [Guichê Virtual](https://www.guichevirtual.com.br/)
 
 ## São Paulo
-* [Atech](https://www.atech.com.br/)
-* [Buscapé](http://www.buscapecompany.com)
 * [Codus Tecnologia](http://www.codus.com.br)
 * [Conquestone](http://www.conquestone.com.br/index.php/pt-br/)
 * [CWI](http://www.cwi.com.br/)
-* [Easynvest](https://www.easynvest.com.br/carreiras.html)
+* [Dr. Consulta](http://www.drconsulta.com)
 * [Evolux](http://www.evolux.net.br/)
 * [Fujitsu](http://www.fujitsu.com/br/)
 * [Geekie](http://www.geekie.com.br/)
-* [GetNinjas](https://www.getninjas.com.br/)
+* [Ideal Invest](http://instituicao.idealinvest.com.br/)
 * [Intuit](http://www.quickbooks.com.br/)
-* [LuizaLabz](https://medium.com/luizalabs)
-* [Nubank](https://www.nubank.com.br/carreiras/)
+* [Pagarme](http://pagar.me/)
 * [Plataformatec](http://plataformatec.com.br/)
 * [PluggTo](https://plugg.to)
+* [Qiwi](http://www.qiwi.com.br/)
 * [Red Hat](https://www.redhat.com/en/global/brazil)
 * [Sonda IT](http://www.sondait.com.br/)
+* [Vizir](http://www.vizir.com.br/)
 
 ## Sorocaba
 * [Codeminer42](http://www.codeminer42.com/)
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
-* [Goomer](https://goomer.com.br/)
-* [Smyowl](http://www.smyowl.com/)
+* [Smyowl](http://www.smyowl.com/)* 
 * [Splice](http://www.splice.com.br/)
 * [Uppertools](http://www.uppertools.com.br/)
-
-## Votorantim
-* [Ventron](http://www.ventron.com.br/)
-
-
-
