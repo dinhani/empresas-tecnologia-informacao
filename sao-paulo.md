@@ -135,9 +135,12 @@
 
 ## Itu
 * [Datapar](http://www.datapar.com.br/home/)
+* [Followize](https://www.followize.com.br/)
 * [FWC](http://www.fwc.com.br/)
 * [Gênia](http://www.agenciagenia.com.br/)
 * [Mega Sistemas](http://www.mega.com.br/home/)
+* [OptCode](http://optcode.com.br/)
+* [SorioDev](https://www.soriodev.com.br/)
 * [Renasoft](http://www.renasoft.com.br/)
 * [Top Deals](http://topdeals.com.br/)
 
