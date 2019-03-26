@@ -226,12 +226,8 @@
 * [FIT](http://www.fit-tecnologia.org.br/)
 * [GFT](http://www.gft.com/br/pt/index.html)
 * [Goomer](https://goomer.com.br/)
-* [Smyowl](http://www.smyowl.com/)
 * [Splice](http://www.splice.com.br/)
 * [Uppertools](http://www.uppertools.com.br/)
 
 ## Votorantim
 * [Ventron](http://www.ventron.com.br/)
-
-
-
