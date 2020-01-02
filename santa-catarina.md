@@ -5,7 +5,7 @@
 * [Braço do Norte](#braço-do-norte)
 * [Chapecó](#chapecó)
 * [Criciúma](#criciúma)
-* [Florianópolis](#florianopolis)
+* [Florianópolis](#florianópolis)
 * [Joinville](#joinville)
 * [Mafra](#mafra)
 * [Tubarão](#tubarão)
