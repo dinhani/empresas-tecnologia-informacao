@@ -1,13 +1,19 @@
 # Santa Catarina
 
 ## Sumário
+* [Blumenau](#blumenau)
 * [Braço do Norte](#braço-do-norte)
 * [Chapecó](#chapecó)
 * [Criciúma](#criciúma)
+* [Florianópolis](#florianópolis)
 * [Joinville](#joinville)
 * [Mafra](#mafra)
 * [Tubarão](#tubarão)
 * [Videira](#videira)
+
+## Blumenau
+* [Senior Sistemas](https://www.senior.com.br/)
+* [Hi Platform](https://www.hiplatform.com/)
 
 ## Braço do Norte
 * [Trier Sistemas](http://www.triersistemas.com.br/)
@@ -22,6 +28,11 @@
 * [InfoData](http://infodataweb.com.br/)
 * [Logosystem](http://logosystem.com.br)
 * [Useall](http://useall.com.br)
+
+## Florianópolis
+* [Softplan](https://www.softplan.com.br/)
+* [Teltec Solutions](https://teltecsolutions.com.br/)
+* [Cheesecake Labs](https://cheesecakelabs.com/br/)
 
 ## Joinville
 * [Asaas](https://www.asaas.com/)
