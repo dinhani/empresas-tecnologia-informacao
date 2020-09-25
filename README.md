@@ -15,7 +15,7 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 | <img src="img/bandeiras/amazonas.png" height="50">            | [Amazonas](/amazonas.md)                          |
 | <img src="img/bandeiras/bahia.png" height="50">               | [Bahia](/bahia.md)                                |
 | <img src="img/bandeiras/ceara.png" height="50">               | [Ceará](/ceara.md)                                |
-| <img src="img/bandeiras/distrito-federal.png" height="50">               | [Distrito Federal](/distrito-federal.md)                                |
+| <img src="img/bandeiras/distrito-federal.png" height="50">    | [Distrito Federal](/distrito-federal.md)          |
 | <img src="img/bandeiras/espirito-santo.png" height="50">      | [Espírito Santo](/espirito-santo.md)              |
 | <img src="img/bandeiras/goias.png" height="50">               | [Goiás](/goias.md)                                |
 | <img src="img/bandeiras/maranhao.png" height="50">            | [Maranhão](/maranhao.md)                          |
@@ -34,6 +34,6 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 | <img src="img/bandeiras/roraima.png" height="50">             | [Roraima](/roraima.md)                            |
 | <img src="img/bandeiras/santa-catarina.png" height="50">      | [Santa Catarina](/santa-catarina.md)              |
 | <img src="img/bandeiras/sao-paulo.png" height="50">           | [São Paulo](/sao-paulo.md)                        |
-| <img src="img/bandeiras/sergipe.png" height="50">             | [Roraima](/sergipe.md)                            |
+| <img src="img/bandeiras/sergipe.png" height="50">             | [Sergipe](/sergipe.md)                            |
 | <img src="img/bandeiras/tocantins.png" height="50">           | [Tocantins](/tocantins.md)                        |
-| <img src="img/bandeiras/internacional.png" height="50">       | [Internacional (remoto)](/internacional-remoto.md) |
+| <img src="img/bandeiras/internacional.png" height="50">       | [Internacional (remoto)](/internacional-remoto.md)|
