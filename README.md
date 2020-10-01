@@ -7,7 +7,7 @@ Contribuições para o projeto são bem-vindas e necessárias para que o catálo
 
 ## Empresas por estado
 
-|                                                               |                                                   |
+|                 BANDEIRA                                      |                ESTADO                             |
 | ------------------------------------------------------------- | ------------------------------------------------- |
 | <img src="img/bandeiras/acre.png" height="50">                | [Acre](/acre.md)                                  |
 | <img src="img/bandeiras/alagoas.png" height="50">             | [Alagoas](/alagoas.md)                            |
