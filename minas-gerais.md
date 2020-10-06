@@ -1,5 +1,8 @@
 # Minas Gerais
 
+## Sumário
+* [Belo Horizonte](#belo-horizonte)
+
 ## Alfenas
 
 ## Belo Horizonte
@@ -23,27 +26,15 @@
 * [Tripla](https://triplait.com/)
 
 ## Betim
-
 ## Bom Despacho
-
 ## Brumadinho
-
 ## Contagem
-
 ## Curvelo
-
 ## Ipatinga
-
 ## Juiz de Fora
-
 ## Lavras
-
 ## Leopoldina
-
 ## Montes Claros
-
 ## Nova Lima
-
 ## Santa Luzia
-
 ## Uberlândia

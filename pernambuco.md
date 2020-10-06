@@ -1,5 +1,8 @@
 # Pernambuco
 
+## Sumário
+* [Recife](#recife)
+
 ## Recife
 * [Guava](http://www.guava.com.br/)
 * [Scriptcase](http://www.scriptcase.com.br/)
