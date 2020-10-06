@@ -1,8 +1,11 @@
 # Minas Gerais
 
+## Sumário
+* [Belo Horizonte](#belo-horizonte)
+
 ## Alfenas
 
-## Belo Horizonte
+## Belo_Horizonte
 * [Base2 Tecnologia](https://www.base2.com.br/)
 * [DTI Digital](https://www.dtidigital.com.br/)
 * [Eteg](https://www.eteg.com.br)
@@ -23,27 +26,15 @@
 * [Grupo Otimiza](http://www.grupootimiza.com.br/)
 
 ## Betim
-
 ## Bom Despacho
-
 ## Brumadinho
-
 ## Contagem
-
 ## Curvelo
-
 ## Ipatinga
-
 ## Juiz de Fora
-
 ## Lavras
-
 ## Leopoldina
-
 ## Montes Claros
-
 ## Nova Lima
-
 ## Santa Luzia
-
 ## Uberlândia
