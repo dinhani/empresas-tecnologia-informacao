@@ -5,20 +5,15 @@
 * [Maceió](#maceió)
 
 ## Água Branca
-
 ## Anadia
 
 ## Arapiraca
 * [Agência Lumen](http://www.agencialumen.com.br/)
 
 ## Atalaia
-
 ## Barra de Santo Antônio
-
 ## Barra de São Miguel
-
 ## Batalha
-
 ## Belém 
 ## Belo Monte 
 ## Boca da Mata 
