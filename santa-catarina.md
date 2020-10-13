@@ -118,7 +118,7 @@
 * [Softplan](https://www.softplan.com.br/)
 * [Teltec Solutions](https://teltecsolutions.com.br/)
 * [Cheesecake Labs](https://cheesecakelabs.com/br/)
-
+* [Binamik](https://binamik.com.br/)
 ## Formosa do Sul
 ## Forquilhinha
 ## Fraiburgo
