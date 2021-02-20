@@ -13,6 +13,7 @@
 * [Itu](#itu)
 * [Jundiaí](#jundiaí)
 * [Limeira](#limeira)
+* [Pedreira](#pedreira)
 * [Pindamonhangaba](#pindamonhangaba)
 * [Ribeirão Preto](#ribeirão-preto)
 * [Rio Claro](#rio-claro)
@@ -149,6 +150,9 @@
 
 ## Limeira
 * [BluePex](http://www.bluepex.com/)
+
+## Pedreira
+* [Build Solutions](https://buildsolutions.com.br)
 
 ## Pindamonhangaba
 * [Designa](http://designa.com.br/)
